@@ -1,4 +1,5 @@
 import anisImg from "../../assets/images/anis.png"
+import sajjadImg from "../../assets/images/sajjad.jpg"
 
 const teamMembers = [
   {
@@ -14,10 +15,10 @@ const teamMembers = [
     image: "https://via.placeholder.com/150" 
   },
   {
-    name: "SAJJAD",
-    role: "CSE 029 25486",
+    name: "Md Sajjad Mahmud",
+    role: "CSE 029 07729",
     description: "Charlie designs the user interface and ensures a great user experience throughout the project.",
-    image: "https://via.placeholder.com/150" 
+    image: sajjadImg 
   },
   {
     name: "RIFAT",
